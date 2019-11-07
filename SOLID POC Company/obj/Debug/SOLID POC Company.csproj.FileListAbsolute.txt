@@ -1,0 +1,7 @@
+C:\Users\lelrazik\Desktop\SOLID POC Company\SOLID POC Company\bin\Debug\SOLID POC Company.exe.config
+C:\Users\lelrazik\Desktop\SOLID POC Company\SOLID POC Company\bin\Debug\SOLID POC Company.exe
+C:\Users\lelrazik\Desktop\SOLID POC Company\SOLID POC Company\bin\Debug\SOLID POC Company.pdb
+C:\Users\lelrazik\Desktop\SOLID POC Company\SOLID POC Company\obj\Debug\SOLID POC Company.exe
+C:\Users\lelrazik\Desktop\SOLID POC Company\SOLID POC Company\obj\Debug\SOLID POC Company.pdb
+C:\Users\lelrazik\Desktop\SOLID POC Company\SOLID POC Company\obj\Debug\SOLID POC Company.csprojAssemblyReference.cache
+C:\Users\lelrazik\Desktop\SOLID POC Company\SOLID POC Company\obj\Debug\SOLID POC Company.csproj.CoreCompileInputs.cache
